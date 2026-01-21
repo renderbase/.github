@@ -19,12 +19,20 @@
 | [sdk-python](https://github.com/renderbase/sdk-python) | `renderbase` | Python SDK with async support |
 | [sdk-java](https://github.com/renderbase/sdk-java) | `io.renderbase:sdk` | Java SDK for JVM applications |
 
-### Tools & Integrations
+### Tools
 
 | Repository | Description |
 |------------|-------------|
 | [mcp-server](https://github.com/renderbase/mcp-server) | Model Context Protocol server for AI assistants |
 | [developer-resources](https://github.com/renderbase/developer-resources) | Sample templates, code examples, and tutorials |
+
+### No-Code Integrations
+
+| Repository | Description |
+|------------|-------------|
+| [zapier-renderbase](https://github.com/renderbase/zapier-renderbase) | Official Zapier integration |
+| [make-renderbase](https://github.com/renderbase/make-renderbase) | Official Make.com (Integromat) integration |
+| [n8n-renderbase](https://github.com/renderbase/n8n-renderbase) | Official n8n community node |
 
 ### Quick Links
 
