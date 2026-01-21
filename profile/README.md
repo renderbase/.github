@@ -9,14 +9,30 @@
 - **SDKs** - Node.js, Python, and Java libraries
 - **Integrations** - Zapier, Make, n8n, Google Sheets
 
-## Quick Links
+## Repositories
+
+### SDKs
+
+| SDK | Package | Description |
+|-----|---------|-------------|
+| [sdk-node](https://github.com/renderbase/sdk-node) | `@renderbase/sdk` | Node.js/TypeScript SDK |
+| [sdk-python](https://github.com/renderbase/sdk-python) | `renderbase` | Python SDK with async support |
+| [sdk-java](https://github.com/renderbase/sdk-java) | `io.renderbase:sdk` | Java SDK for JVM applications |
+
+### Tools & Integrations
+
+| Repository | Description |
+|------------|-------------|
+| [mcp-server](https://github.com/renderbase/mcp-server) | Model Context Protocol server for AI assistants |
+| [developer-resources](https://github.com/renderbase/developer-resources) | Sample templates, code examples, and tutorials |
+
+### Quick Links
 
 | Resource | Link |
 |----------|------|
 | Documentation | [docs.renderbase.dev](https://docs.renderbase.dev) |
 | Website | [renderbase.dev](https://renderbase.dev) |
-| Node.js SDK | [sdk-node](https://github.com/renderbase/sdk-node) |
-| Python SDK | [sdk-python](https://github.com/renderbase/sdk-python) |
+| API Reference | [docs.renderbase.dev/api-reference](https://docs.renderbase.dev/api-reference) |
 
 ## Get Started
 
