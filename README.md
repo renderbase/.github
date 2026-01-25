@@ -119,7 +119,7 @@ Connect Claude, Cursor, or any MCP-compatible AI agent directly to Renderbase:
       "command": "npx",
       "args": ["-y", "@renderbase/mcp-server"],
       "env": {
-        "RENDERBASE_PAT": "your-personal-access-token"
+        "RENDERBASE_USER_TOKEN": "your-personal-access-token"
       }
     }
   }
