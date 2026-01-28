@@ -12,7 +12,7 @@ Please read the full text at the link above.
 
 ## Enforcement
 
-Instances of unacceptable behavior may be reported to the project team at conduct@renderbase.io.
+Instances of unacceptable behavior may be reported to the project team at conduct@rynko.io.
 
 All reports will be reviewed and investigated promptly and fairly.
 

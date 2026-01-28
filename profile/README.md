@@ -1,4 +1,4 @@
-# Renderbase
+# Rynko
 
 **Document generation platform for developers.** Generate PDFs and Excel files from templates with a simple API.
 
@@ -15,43 +15,43 @@
 
 | SDK | Package | Description |
 |-----|---------|-------------|
-| [sdk-node](https://github.com/renderbase/sdk-node) | `@renderbase/sdk` | Node.js/TypeScript SDK |
-| [sdk-python](https://github.com/renderbase/sdk-python) | `renderbase` | Python SDK with async support |
-| [sdk-java](https://github.com/renderbase/sdk-java) | `io.renderbase:sdk` | Java SDK for JVM applications |
+| [sdk-node](https://github.com/rynko/sdk-node) | `@rynko/sdk` | Node.js/TypeScript SDK |
+| [sdk-python](https://github.com/rynko/sdk-python) | `rynko` | Python SDK with async support |
+| [sdk-java](https://github.com/rynko/sdk-java) | `io.rynko:sdk` | Java SDK for JVM applications |
 
 ### Tools
 
 | Repository | Description |
 |------------|-------------|
-| [mcp-server](https://github.com/renderbase/mcp-server) | Model Context Protocol server for AI assistants |
-| [developer-resources](https://github.com/renderbase/developer-resources) | Sample templates, code examples, and tutorials |
+| [mcp-server](https://github.com/rynko/mcp-server) | Model Context Protocol server for AI assistants |
+| [developer-resources](https://github.com/rynko/developer-resources) | Sample templates, code examples, and tutorials |
 
 ### No-Code Integrations
 
 | Repository | Description |
 |------------|-------------|
-| [zapier-renderbase](https://github.com/renderbase/zapier-renderbase) | Official Zapier integration |
-| [make-renderbase](https://github.com/renderbase/make-renderbase) | Official Make.com (Integromat) integration |
-| [n8n-renderbase](https://github.com/renderbase/n8n-renderbase) | Official n8n community node |
+| [zapier-rynko](https://github.com/rynko/zapier-rynko) | Official Zapier integration |
+| [make-rynko](https://github.com/rynko/make-rynko) | Official Make.com (Integromat) integration |
+| [n8n-rynko](https://github.com/rynko/n8n-rynko) | Official n8n community node |
 
 ### Quick Links
 
 | Resource | Link |
 |----------|------|
-| Documentation | [docs.renderbase.dev](https://docs.renderbase.dev) |
-| Website | [renderbase.dev](https://renderbase.dev) |
-| API Reference | [docs.renderbase.dev/api-reference](https://docs.renderbase.dev/api-reference) |
+| Documentation | [docs.rynko.dev](https://docs.rynko.dev) |
+| Website | [rynko.dev](https://rynko.dev) |
+| API Reference | [docs.rynko.dev/api-reference](https://docs.rynko.dev/api-reference) |
 
 ## Get Started
 
 ```bash
-npm install @renderbase/sdk
+npm install @rynko/sdk
 ```
 
 ```javascript
-import { Renderbase } from '@renderbase/sdk';
+import { Rynko } from '@rynko/sdk';
 
-const client = new Renderbase({ apiKey: 'your-api-key' });
+const client = new Rynko({ apiKey: 'your-api-key' });
 const pdf = await client.documents.generatePdf({
   templateId: 'invoice-template',
   data: { customerName: 'Acme Corp', amount: 150.00 }
@@ -60,7 +60,7 @@ const pdf = await client.documents.generatePdf({
 
 ## Contributing
 
-We welcome contributions! See our [Contributing Guide](https://github.com/renderbase/.github/blob/main/CONTRIBUTING.md).
+We welcome contributions! See our [Contributing Guide](https://github.com/rynko/.github/blob/main/CONTRIBUTING.md).
 
 ## License
 

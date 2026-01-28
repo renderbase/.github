@@ -11,7 +11,7 @@
 
 If you discover a security issue, please report it privately.
 
-**Email:** security@renderbase.io
+**Email:** security@rynko.io
 
 Please include:
 - Description of the issue
@@ -28,4 +28,4 @@ Please include:
 
 We appreciate responsible disclosure and will acknowledge contributors in our release notes (unless anonymity is preferred).
 
-Thank you for helping keep Renderbase secure.
+Thank you for helping keep Rynko secure.

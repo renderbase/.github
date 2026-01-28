@@ -1,6 +1,6 @@
-# Renderbase Brand Assets
+# Rynko Brand Assets
 
-Official logo and brand assets for Renderbase - the document generation platform.
+Official logo and brand assets for Rynko - the document generation platform.
 
 ## Logo Files
 
@@ -61,12 +61,12 @@ background: linear-gradient(135deg, #A78BFA 0%, #8B5CF6 100%);
 <link rel="icon" href="/favicon.svg" type="image/svg+xml">
 
 <!-- Header logo -->
-<img src="/logo-horizontal.svg" alt="Renderbase" width="280" height="60">
+<img src="/logo-horizontal.svg" alt="Rynko" width="280" height="60">
 
 <!-- Dark mode -->
 <picture>
   <source srcset="/logo-horizontal-dark.svg" media="(prefers-color-scheme: dark)">
-  <img src="/logo-horizontal.svg" alt="Renderbase" width="280" height="60">
+  <img src="/logo-horizontal.svg" alt="Rynko" width="280" height="60">
 </picture>
 ```
 
@@ -80,7 +80,7 @@ const logoSrc = theme === 'dark'
   ? '/logo-horizontal-dark.svg'
   : '/logo-horizontal.svg';
 
-<Image src={logoSrc} alt="Renderbase" width={280} height={60} />
+<Image src={logoSrc} alt="Rynko" width={280} height={60} />
 ```
 
 ## Converting to Other Formats
@@ -116,7 +116,7 @@ Copy these assets to the appropriate locations:
 | admin | `public/` | All |
 | docs | `static/img/` | All |
 | wiki | `static/img/` | All |
-| n8n | `nodes/Renderbase/` | `icon.svg` → `renderbase.svg` |
+| n8n | `nodes/Rynko/` | `icon.svg` → `rynko.svg` |
 | zapier | (upload to platform) | `icon.svg` |
 | make | (upload to platform) | `icon.svg` |
 

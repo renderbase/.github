@@ -1,6 +1,6 @@
-# Contributing to Renderbase
+# Contributing to Rynko
 
-Thank you for your interest in contributing to Renderbase! This document provides guidelines and information for contributors.
+Thank you for your interest in contributing to Rynko! This document provides guidelines and information for contributors.
 
 ## Code of Conduct
 
@@ -58,9 +58,9 @@ We welcome feature suggestions! Please open an issue with:
 
 Each SDK has its own setup instructions in its README:
 
-- [Node.js SDK](https://github.com/renderbase/sdk-node)
-- [Python SDK](https://github.com/renderbase/sdk-python)
-- [Java SDK](https://github.com/renderbase/sdk-java)
+- [Node.js SDK](https://github.com/rynko/sdk-node)
+- [Python SDK](https://github.com/rynko/sdk-python)
+- [Java SDK](https://github.com/rynko/sdk-java)
 
 ### General Requirements
 
@@ -111,9 +111,9 @@ docs(readme): update installation instructions
 
 ## Questions?
 
-- Check existing [issues](https://github.com/renderbase) first
+- Check existing [issues](https://github.com/rynko) first
 - Open a new issue for questions
-- Email us at support@renderbase.dev
+- Email us at support@rynko.dev
 
 ## License
 
@@ -121,4 +121,4 @@ By contributing, you agree that your contributions will be licensed under the sa
 
 ---
 
-Thank you for contributing to Renderbase!
+Thank you for contributing to Rynko!
